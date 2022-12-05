@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on... work & TryHackMe <br>
-🌱 I’m currently learning privilege escalation<br>
+🌱 I’m currently learning react<br>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/binday.png" alt="TryHackMe">
 
