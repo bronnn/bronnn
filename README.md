@@ -2,6 +2,7 @@
 🔭 I’m currently working on... work & TryHackMe <br>
 🌱 I’m currently learning react<br>
 
+THM
 <img src="https://tryhackme-badges.s3.amazonaws.com/binday.png" alt="TryHackMe">
 
 # 💻 Tech Stack:
