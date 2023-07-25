@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🌱 I’m currently learning AWS <br>
+🌱 I’m currently learning AWS! <br>
 
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/binday.png?6" alt="TryHackMe">
