@@ -1,6 +1,8 @@
 # 💫 About Me:
 
-🌱 I’m currently learning AWS! <br>
+👩🏻‍💻 Bron M
+☁️ Cloud Engineer
+🌍 Cardiff, Wales
 
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/binday.png?6" alt="TryHackMe">
