@@ -2,7 +2,7 @@
 
 👩🏻‍💻 Bron M \
 ☁️ Cloud Engineer \
-🌍 Cardiff, Wales \
+🌍 Cardiff, Wales\
 
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/binday.png?6" alt="TryHackMe">
