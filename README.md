@@ -16,14 +16,6 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bronnn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
----
-[![](https://visitcount.itsvg.in/api?id=bronnn&icon=2&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
