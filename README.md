@@ -1,7 +1,6 @@
 # 💫 About Me:
 
 👩🏻‍💻 Bron M \
-☁️ Cloud Engineer \
 🌍 Cardiff, Wales
 
 
